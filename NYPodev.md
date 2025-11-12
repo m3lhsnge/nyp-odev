@@ -29,8 +29,7 @@
 *Soru 4.) upcast ve downcast nedir? Bu örnekte uygulayarak anlatın.*
 *Soru 5.) static metodların polimorfizm kullanımı mümkün mü? Mümkünse veya*
 *değilse kodla açıklayarak yazın.*
-
-*Soru 6.) Koleksiyonlar / veri yapılaro üzerinde polimorfizm nasıl kullanılır. Kullanılır mı*
+S*Soru 6.) Koleksiyonlar / veri yapılaro üzerinde polimorfizm nasıl kullanılır. Kullanılır mı*
 **? Gerekli mi ? kodlarla açıklayın.*
 *Soru 7.) İnstanceof kullanımını switch case ile de sağlayabilir miyiz ? bunu irdeleyin*
 *Bu sorulara hazırlanan cevap kodlar yukarıdaki örneği çözen kodlar olacak.*
