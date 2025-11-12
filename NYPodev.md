@@ -77,7 +77,7 @@ public class Cat implements Animal {
 #### POLİMORFİZM FARKI: 
 - Referans tipi (Animal) hangi metodlara erişileceğini belirler
 - Nesne tipi (Dog/Cat) hangi metodun çalışacağını belirler
-- Bu polimorfizmin temelidir!
+- Bu polimorfizmin temelidir
 
 ### SORU 2: Polimorfizm Amacı ve Faydaları
 
