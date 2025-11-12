@@ -26,4 +26,5 @@ class Cat implements Animal {
     public void nankor() {
         System.out.println("Kedi nankördür");
     }
-}```
+}
+```
